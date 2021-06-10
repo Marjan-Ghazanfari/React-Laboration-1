@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    opacity: 0.9;
+}
+
+.card:hover {
+    opacity: 1;
+    transform: scale(1.05);
+}
+
+.navy {
+    background-color: rgb(209, 240, 240);
+}
+
+/* img {
+    height: 150px;
+    width: auto;
+} */
